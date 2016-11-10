@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace SQLiteNetPCLConsole
 {
-    class Program
+    /// <summary>
+    /// SQLite 輔助類別
+    /// </summary>
+    public static class SQLiteHelper
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }
